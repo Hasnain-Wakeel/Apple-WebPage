@@ -8,6 +8,20 @@
 .nav-logo i{
     font-size:20px ;
 }
+
+.nav{
+  background-color: #ffffff;
+
+}
+
+#sec1{
+  background-color: rgb(237, 237, 237);
+}
+
+#sec2{
+  background-color: rgb(237, 237, 237);
+}
+
 .apple-navbar {
   background-color: rgba(251, 251, 253, 0.8); 
   backdrop-filter: blur(20px); 
@@ -18,7 +32,7 @@
   position: fixed;
   top: 0;
   z-index: 1000;
-  border-bottom: 1px solid #d2d2d7;
+  border-bottom: 1px solid #ffffff;
 }
 .nav-content {
   display: flex;
